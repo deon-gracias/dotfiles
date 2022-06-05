@@ -1,3 +1,15 @@
+# Globals
+set -gx fish_greeting ''
+set -gx EDITOR nvim
+
+# Aliases
+. ~/.config/fish/aliases.fish
+
+# Login Shell
+if status is-login
+    . ~/.config/fish/env.fish
+end
+
+# Interactive Shell
 if status is-interactive
-    # Commands to run in interactive sessions can go here
 end
