@@ -55,9 +55,11 @@ map <leader>p :!~/Scripts/opout.sh <c-r>%<CR><CR>
 " Runs a script that cleans tex build files whenever .tex file is closed
 autocmd VimLeave *.tex !~/Scripts/texclear.sh %
 
-" Copy selected text to system clipboard (requires gvim installed)
-vnoremap <C-c> "*Y<CR>
-map <C-p> *+P
+" Copy and Paste selected text to system clipboard
+" (requires gvim installed)
+" vnoremap <C-c> "+y
+vnoremap <C-c> "*y :let @+=@*<CR>
+map <C-p> "+P
 
 " Deletes all trailing whitespaces on save
 autocmd BufWritePre * %s/\s\+$//e
