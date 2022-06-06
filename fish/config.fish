@@ -2,8 +2,6 @@
 set -gx fish_greeting ''
 set -gx EDITOR nvim
 
-# Aliases
-. ~/.config/fish/aliases.fish
 
 # Login Shell
 if status is-login
@@ -12,4 +10,6 @@ end
 
 # Interactive Shell
 if status is-interactive
+    # Aliases
+    . ~/.config/fish/aliases.fish
 end
