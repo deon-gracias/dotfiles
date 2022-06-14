@@ -7,6 +7,7 @@ Plug 'terryma/vim-multiple-cursors'                " Multiple Cursors in Vim
 Plug 'tpope/vim-commentary'                        " Comments
 Plug 'tpope/vim-surround'                          " Add, delete and change surroundings
 Plug 'vim-airline/vim-airline'                     " Better status/tabline for vim
+Plug 'vim-airline/vim-airline-themes'
 Plug 'folke/tokyonight.nvim', { 'branch': 'main' } " Theme : Tokyo Night
 call plug#end()
 
@@ -63,6 +64,31 @@ map <C-p> "+P
 
 " Deletes all trailing whitespaces on save
 autocmd BufWritePre * %s/\s\+$//e
+
+" ========
+" Airline
+" ========
+
+let g:airline_theme='base16'
+let g:airline#extensions#tabline#enabled=1
+
+" Note: You must define the dictionary first before setting values.
+" Also, it's a good idea to check whether it exists as to avoid
+" accidentally overwriting its contents.
+if !exists('g:airline_symbols')
+  let g:airline_symbols = {}
+endif
+
+" Powerline symbols
+let g:airline_left_sep = ''
+let g:airline_left_alt_sep = ''
+let g:airline_right_sep = ''
+let g:airline_right_alt_sep = ''
+let g:airline_symbols.branch = ''
+let g:airline_symbols.readonly = ''
+let g:airline_symbols.linenr = '☰'
+let g:airline_symbols.maxlinenr = ''
+let g:airline_symbols.dirty='⚡'
 
 " ========
 " Snippets
