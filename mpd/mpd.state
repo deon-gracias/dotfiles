@@ -1,0 +1,315 @@
+sw_volume: 100
+audio_device_state:1:ALSA [Bit-perfect]
+audio_device_state:1:Pipewrire
+audio_device_state:1:Visualizer
+state: play
+current: 105
+time: 1.570000
+random: 1
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Japanese/Albums/Eve - Aisai (Single)/01 藍才.flac
+1:Japanese/Albums/Eve - Avant (Single)/01. アヴァン.flac
+2:Japanese/Albums/Eve - Bunka/01. fanfare (instrumental).flac
+3:Japanese/Albums/Eve - Bunka/02. ナンセンス文学.flac
+4:Japanese/Albums/Eve - Bunka/03. ドラマツルギー.flac
+5:Japanese/Albums/Eve - Bunka/04. ホームシック.flac
+6:Japanese/Albums/Eve - Bunka/05. あの娘シークレット.flac
+7:Japanese/Albums/Eve - Bunka/06. 会心劇.flac
+8:Japanese/Albums/Eve - Bunka/07. ふりをした。.flac
+9:Japanese/Albums/Eve - Bunka/08. 羊を数えて.flac
+10:Japanese/Albums/Eve - Bunka/09. お気に召すまま.flac
+11:Japanese/Albums/Eve - Bunka/10. paradigm (instrumental).flac
+12:Japanese/Albums/Eve - Gunjo Sanka Yuseiboushi/01 群青讃歌 - Eve.flac
+13:Japanese/Albums/Eve - Gunjo Sanka Yuseiboushi/02 遊生夢死 - Eve.flac
+14:Japanese/Albums/Eve - Gunjo Sanka Yuseiboushi/03 夜は仄か - Eve.flac
+15:Japanese/Albums/Eve - Gunjo Sanka Yuseiboushi/04 いのちの食べ方 (DanceMix ver.) - Eve.flac
+16:Japanese/Albums/Eve - Gunjo Sanka Yuseiboushi/05 ドラマツルギー (Live Film ver.) - Eve.flac
+17:Japanese/Albums/Eve - Kaikai Kitan and Ao no Waltz/1.01. 廻廻奇譚.flac
+18:Japanese/Albums/Eve - Kaikai Kitan and Ao no Waltz/1.02. 蒼のワルツ.flac
+19:Japanese/Albums/Eve - Kaikai Kitan and Ao no Waltz/1.03. 心海.flac
+20:Japanese/Albums/Eve - Kaikai Kitan and Ao no Waltz/1.04. 宵の明星.flac
+21:Japanese/Albums/Eve - Kaikai Kitan and Ao no Waltz/1.05. 遊遊冥冥.flac
+22:Japanese/Albums/Eve - Kaikai Kitan and Ao no Waltz/1.06. 約束.flac
+23:Japanese/Albums/Eve - Kaikai Kitan and Ao no Waltz/1.07. 杪夏.flac
+24:Japanese/Albums/Eve - Kaizin/01.廻人.flac
+25:Japanese/Albums/Eve - Kaizin/02.廻廻奇譚.flac
+26:Japanese/Albums/Eve - Kaizin/03.夜は仄か.flac
+27:Japanese/Albums/Eve - Kaizin/04.遊生夢死.flac
+28:Japanese/Albums/Eve - Kaizin/05.暴徒.flac
+29:Japanese/Albums/Eve - Kaizin/06.平行線.flac
+30:Japanese/Albums/Eve - Kaizin/07.YOKU.flac
+31:Japanese/Albums/Eve - Kaizin/08.蒼のワルツ.flac
+32:Japanese/Albums/Eve - Kaizin/09.心海.flac
+33:Japanese/Albums/Eve - Kaizin/10.群青讃歌.flac
+34:Japanese/Albums/Eve - Kaizin/11.言の葉.flac
+35:Japanese/Albums/Eve - Kaizin/12.藍才.flac
+36:Japanese/Albums/Eve - Kaizin/13.退⽈を再演しないで.flac
+37:Japanese/Albums/Eve - Kaizin/14.アヴァン.flac
+38:Japanese/Albums/Eve - OFFICIAL NUMBER/01 Doshiyomonaikuraini kimigasuki.flac
+39:Japanese/Albums/Eve - OFFICIAL NUMBER/02 Caravan.flac
+40:Japanese/Albums/Eve - OFFICIAL NUMBER/03 Wakusei loop.flac
+41:Japanese/Albums/Eve - OFFICIAL NUMBER/04 Demon dance tokyo.flac
+42:Japanese/Albums/Eve - OFFICIAL NUMBER/05 Fuyukan.flac
+43:Japanese/Albums/Eve - OFFICIAL NUMBER/06 Short umbrella.flac
+44:Japanese/Albums/Eve - OFFICIAL NUMBER/07 Rabbit gray.flac
+45:Japanese/Albums/Eve - OFFICIAL NUMBER/08 Perfect seimei.flac
+46:Japanese/Albums/Eve - OFFICIAL NUMBER/09 Meru factory (Re arrange ver).flac
+47:Japanese/Albums/Eve - OFFICIAL NUMBER/10 sister (Re arrange ver).flac
+48:Japanese/Albums/Eve - Otogi/01 slumber.flac
+49:Japanese/Albums/Eve - Otogi/02 トーキョーゲットー.flac
+50:Japanese/Albums/Eve - Otogi/03 アウトサイダー.flac
+51:Japanese/Albums/Eve - Otogi/04 迷い子.flac
+52:Japanese/Albums/Eve - Otogi/05 やどりぎ.flac
+53:Japanese/Albums/Eve - Otogi/06 アンビバレント.flac
+54:Japanese/Albums/Eve - Otogi/07 dawn.flac
+55:Japanese/Albums/Eve - Otogi/08 ラストダンス.flac
+56:Japanese/Albums/Eve - Round Robin/01 Namaemo shiranai anatani koi wo shita.flac
+57:Japanese/Albums/Eve - Round Robin/02 Round Robin.flac
+58:Japanese/Albums/Eve - Round Robin/03 Miginimagirl.flac
+59:Japanese/Albums/Eve - Round Robin/04 Fukanzen na shogu (album ver).flac
+60:Japanese/Albums/Eve - Round Robin/05 Hantaishasen.flac
+61:Japanese/Albums/Eve - Round Robin/06 Fallin My World.flac
+62:Japanese/Albums/Eve - Round Robin/07 Meru factory.flac
+63:Japanese/Albums/Eve - Round Robin/08 Shinjuku sick.flac
+64:Japanese/Albums/Eve - Round Robin/09 Ikanaide (album ver).flac
+65:Japanese/Albums/Eve - Round Robin/10 Goodbye day.flac
+66:Japanese/Albums/Eve - Smile/01 doublet.flac
+67:Japanese/Albums/Eve - Smile/02 LEO.flac
+68:Japanese/Albums/Eve - Smile/03 レーゾンデートル.flac
+69:Japanese/Albums/Eve - Smile/04 虚の記憶.flac
+70:Japanese/Albums/Eve - Smile/05 いのちの食べ方.flac
+71:Japanese/Albums/Eve - Smile/06 闇夜.flac
+72:Japanese/Albums/Eve - Smile/07 朝が降る.flac
+73:Japanese/Albums/Eve - Smile/08 心予報.flac
+74:Japanese/Albums/Eve - Smile/09 白銀.flac
+75:Japanese/Albums/Eve - Smile/10 バウムクーヘンエンド.flac
+76:Japanese/Albums/Eve - Smile/11 mellow.flac
+77:Japanese/Albums/Eve - Smile/12 ognanje.flac
+78:Japanese/Albums/Eve - Smile/13 胡乱な食卓.flac
+79:Japanese/Albums/Eve - Wonder Word/01 Yoru no yume.flac
+80:Japanese/Albums/Eve - Wonder Word/02 Arukari seizin.flac
+81:Japanese/Albums/Eve - Wonder Word/03 Senkouhanabi.flac
+82:Japanese/Albums/Eve - Wonder Word/04 Heroumerou.flac
+83:Japanese/Albums/Eve - Wonder Word/05 Shinkirou.flac
+84:Japanese/Albums/Eve - Wonder Word/06 Mataashita.flac
+85:Japanese/Albums/Eve - Wonder Word/07 Yoru wo koero.flac
+86:Japanese/Albums/Eve x Sou - Ao/01 Myojo Galactica.flac
+87:Japanese/Albums/Eve x Sou - Ao/02 Nonsence philosophy.flac
+88:Japanese/Albums/Eve x Sou - Ao/03 Chocolate town.flac
+89:Japanese/Albums/Eve x Sou - Ao/04 Dr..flac
+90:Japanese/Albums/Eve x Sou - Ao/05 tig-hug.flac
+91:Japanese/Albums/Eve x Sou - Ao/06 Fake.flac
+92:Japanese/Albums/Eve x Sou - Ao/07 Hakushi no haru.flac
+93:Japanese/Albums/Mosawo - Gyutto/Mosawo - Gyutto FLAC/1. Gyutto.flac
+94:Japanese/Albums/Mosawo - Koiiro/Mosawo - Koiiro [FLAC]/01. 恋色.flac
+95:Japanese/Albums/Mosawo - Sakura Koi/Mosawo - Sakura Koi [FLAC]/02. 桜恋 (Instrumental).flac
+96:Japanese/Albums/Mosawo - Sakura Koi/Mosawo - Sakura Koi [FLAC]/01. 桜恋.flac
+97:Japanese/Albums/ODDTAXI/01. ODDTAXI.flac
+98:Japanese/Albums/ODDTAXI/02. 儎僲偺僥乕儅.flac
+99:Japanese/Albums/ODDTAXI/03. 撪梕偺側偄夛榖.flac
+100:Japanese/Albums/ODDTAXI/04. 僀儞僐偺傑傞.flac
+101:Japanese/Albums/ODDTAXI/05. 帠審.flac
+102:Japanese/Albums/ODDTAXI/06. 擔忢A.flac
+103:Japanese/Albums/ODDTAXI/07. 壌偨偪偵柧擔偼側偄.flac
+104:Japanese/Albums/ODDTAXI/08. 僒僀儗儞.flac
+105:Japanese/Albums/ODDTAXI/09. 嫼敆.flac
+106:Japanese/Albums/ODDTAXI/10. 栭偺僺僋僯僢僋.flac
+107:Japanese/Albums/ODDTAXI/11. 塡偺彈.flac
+108:Japanese/Albums/ODDTAXI/12. 晅偗從偒恘偺僇億僄僀儔.flac
+109:Japanese/Albums/ODDTAXI/13. 嵟埆.flac
+110:Japanese/Albums/ODDTAXI/14. 悽奅偵傂偲偮偺儗傾儕僥傿.flac
+111:Japanese/Albums/ODDTAXI/15. N-1偺僥乕儅.flac
+112:Japanese/Albums/ODDTAXI/16. 偨偩偺價儑乕僉.flac
+113:Japanese/Albums/ODDTAXI/17. 壎曉偟.flac
+114:Japanese/Albums/ODDTAXI/18. 儂儌僒僺僄儞僗偺僥乕儅.flac
+115:Japanese/Albums/ODDTAXI/19. 僘乕儘僕僇儖僈乕僨儞.flac
+116:Japanese/Albums/ODDTAXI/20. 僪僽偺僥乕儅.flac
+117:Japanese/Albums/ODDTAXI/21. 幏拝.flac
+118:Japanese/Albums/ODDTAXI/22. 擔忢B.flac
+119:Japanese/Albums/ODDTAXI/23. 埆偩偔傒.flac
+120:Japanese/Albums/ODDTAXI/24. 揷拞偲嵅摗.flac
+121:Japanese/Albums/ODDTAXI/25. 敀愳偺曅巚偄.flac
+122:Japanese/Albums/ODDTAXI/26. 彫屗愳偺婰壇.flac
+123:Japanese/Albums/ODDTAXI/27. 僼僃傾儕乕僥僀儖.flac
+124:Japanese/Albums/ODDTAXI/28. 僔儏僈乕儗僗丒僉僢僗.flac
+125:Japanese/Albums/Samurai Champloo Music Record - Departure/01. battlecry - Nujabes feat. Shing02.flac
+126:Japanese/Albums/Samurai Champloo Music Record - Departure/02. the space between two world.flac
+127:Japanese/Albums/Samurai Champloo Music Record - Departure/03. aruarian dance.flac
+128:Japanese/Albums/Samurai Champloo Music Record - Departure/04. kujaku.flac
+129:Japanese/Albums/Samurai Champloo Music Record - Departure/05. mystline.flac
+130:Japanese/Albums/Samurai Champloo Music Record - Departure/06. 1st. samurai.flac
+131:Japanese/Albums/Samurai Champloo Music Record - Departure/07. ole.flac
+132:Japanese/Albums/Samurai Champloo Music Record - Departure/08. 624 part2.flac
+133:Japanese/Albums/Samurai Champloo Music Record - Departure/09. genome.flac
+134:Japanese/Albums/Samurai Champloo Music Record - Departure/10. no way back.flac
+135:Japanese/Albums/Samurai Champloo Music Record - Departure/11. funkin.flac
+136:Japanese/Albums/Samurai Champloo Music Record - Departure/12. stay.flac
+137:Japanese/Albums/Samurai Champloo Music Record - Departure/13. chambers.flac
+138:Japanese/Albums/Samurai Champloo Music Record - Departure/14. ask.flac
+139:Japanese/Albums/Samurai Champloo Music Record - Departure/15. how you feel.flac
+140:Japanese/Albums/Samurai Champloo Music Record - Departure/16. 624 part1.flac
+141:Japanese/Albums/Samurai Champloo Music Record - Departure/17. Song of the Seasons - MINMI.flac
+142:Japanese/Albums/SPYxFAMILY - Kigeki/01. 喜劇.flac
+143:Japanese/Albums/SPYxFAMILY - MIXED NUTS/01. ミックスナッツ.flac
+144:Japanese/Albums/STEREO DIVE FOUNDATION - Daisy (Single)/01 Daisy.flac
+145:Japanese/Albums/STEREO DIVE FOUNDATION - Daisy (Single)/02 Two divided Rainbow.flac
+146:Japanese/Albums/STEREO DIVE FOUNDATION - Daisy (Single)/03 Daisy (instrumental).flac
+147:Japanese/Albums/Vaundy - strobo/01. Audio 001.flac
+148:Japanese/Albums/Vaundy - strobo/02. 摂壩.flac
+149:Japanese/Albums/Vaundy - strobo/03. 搶嫗僼儔僢僔儏.flac
+150:Japanese/Albums/Vaundy - strobo/04. 夦廱偺壴塖.flac
+151:Japanese/Albums/Vaundy - strobo/05. life hack.flac
+152:Japanese/Albums/Vaundy - strobo/06. 晄壜岾椡.flac
+153:Japanese/Albums/Vaundy - strobo/07. soramimi.flac
+154:Japanese/Albums/Vaundy - strobo/08. Audio 002.flac
+155:Japanese/Albums/Vaundy - strobo/09. napori.flac
+156:Japanese/Albums/Vaundy - strobo/10. 杔偼崱擔傕.flac
+157:Japanese/Albums/Vaundy - strobo/11. Bye by me.flac
+158:Japanese/Albums/Yuika – Sukidakara. 好きだから。feat.Ren (Digital Single)/01 『ユイカ』 feat. れん - 好きだから。 [feat. れん].flac
+159:Japanese/Youtube Playlist/「ツバメ」_ YOASOBI with ミドリーズ Official Music Video.opus
+160:Japanese/Youtube Playlist/『SPY×FAMILY』エンディング主題歌アニメ映像（ノンクレジット）／“SPY × FAMILY” Ending theme song animation.opus
+161:Japanese/Youtube Playlist/【君の名は。】 スパークル _ RADWIMPS (cover) - Eve.opus
+162:Japanese/Youtube Playlist/【感情を込めて】ハレハレヤ 歌ってみた ver.Sou.opus
+163:Japanese/Youtube Playlist/【爽快に】ロケットサイダー 歌ってみた ver.Sou.opus
+164:Japanese/Youtube Playlist/Aisai.opus
+165:Japanese/Youtube Playlist/Asa Ga Furu.opus
+166:Japanese/Youtube Playlist/Boku Dake Ga Inai Machi Opening.opus
+167:Japanese/Youtube Playlist/Bouto.opus
+168:Japanese/Youtube Playlist/Byouka.opus
+169:Japanese/Youtube Playlist/Caravan.opus
+170:Japanese/Youtube Playlist/Cinnamons x Evening Cinema - Summertime (Kan-Rom-Eng lyrics).opus
+171:Japanese/Youtube Playlist/Date.opus
+172:Japanese/Youtube Playlist/Dream lantern.opus
+173:Japanese/Youtube Playlist/Fallin My World.opus
+174:Japanese/Youtube Playlist/Galileo Galilei - Aoi Shiori.opus
+175:Japanese/Youtube Playlist/Goodbye day.opus
+176:Japanese/Youtube Playlist/Goshintai.opus
+177:Japanese/Youtube Playlist/Grand Escape (feat. Toko Miura).opus
+178:Japanese/Youtube Playlist/Gunjo Sanka.opus
+179:Japanese/Youtube Playlist/Hantaishasen.opus
+180:Japanese/Youtube Playlist/Hitsuji wo kazoete.opus
+181:Japanese/Youtube Playlist/Homesick.opus
+182:Japanese/Youtube Playlist/Is There Still Anything That Love Can Do.opus
+183:Japanese/Youtube Playlist/Isabella's Lullaby.opus
+184:Japanese/Youtube Playlist/Kaede.opus
+185:Japanese/Youtube Playlist/KANA-BOON - Silhouette.opus
+186:Japanese/Youtube Playlist/Kaze (Anime Opening Theme Version).opus
+187:Japanese/Youtube Playlist/Kotonoha.opus
+188:Japanese/Youtube Playlist/LEO - Eve MV.opus
+189:Japanese/Youtube Playlist/Mataashita.opus
+190:Japanese/Youtube Playlist/Mayoigo.opus
+191:Japanese/Youtube Playlist/Meru factory.opus
+192:Japanese/Youtube Playlist/Miginimagirl.opus
+193:Japanese/Youtube Playlist/milet×Aimer×幾田りら - おもかげ (produced by Vaundy) _ THE FIRST TAKE.opus
+194:Japanese/Youtube Playlist/Namaemo shiranai anatani koi wo shita.opus
+195:Japanese/Youtube Playlist/Nandemonaiya - movie ver..opus
+196:Japanese/Youtube Playlist/Odd Taxi OP_Opening Full 'ODDTAXI' by Skirt and PUNPEE -  オッドタクシーOP.opus
+197:Japanese/Youtube Playlist/Omori Version - Bo en's My Time.opus
+198:Japanese/Youtube Playlist/PSYQUI - ヒステリックナイトガール feat. Such (android52 Edit).opus
+199:Japanese/Youtube Playlist/RADWIMPS - 前前前世 (movie ver.) [Official Music Video].opus
+200:Japanese/Youtube Playlist/Samurai Champloo - Shiki No Uta (HQ).opus
+201:Japanese/Youtube Playlist/Senkouhanabi.opus
+202:Japanese/Youtube Playlist/Shinjuku sick.opus
+203:Japanese/Youtube Playlist/Shinkirou.opus
+204:Japanese/Youtube Playlist/Spirited Away Always with me Official lyrics Eng Sub.opus
+205:Japanese/Youtube Playlist/Survive Said The Prophet - MUKANJYO _ Official Music Video.opus
+206:Japanese/Youtube Playlist/We'll Be Alright (Movie Edit).opus
+207:Japanese/Youtube Playlist/Yadorigi.opus
+208:Japanese/Youtube Playlist/yama 『麻痺』MV.opus
+209:Japanese/Youtube Playlist/yama『Oz.』MV.opus
+210:Japanese/Youtube Playlist/YOASOBI「あの夢をなぞって」 Official Music Video.opus
+211:Japanese/Youtube Playlist/YOASOBI「アンコール」Official Music Video.opus
+212:Japanese/Youtube Playlist/YOASOBI「ハルカ」Official Music Video.opus
+213:Japanese/Youtube Playlist/YOASOBI「ハルジオン」Official Music Video.opus
+214:Japanese/Youtube Playlist/YOASOBI「もう少しだけ」Official Music Video.opus
+215:Japanese/Youtube Playlist/YOASOBI「もしも命が描けたら」Official Music Video.opus
+216:Japanese/Youtube Playlist/YOASOBI「三原色」Official Music Video.opus
+217:Japanese/Youtube Playlist/YOASOBI「優しい彗星」Official Music Video　(YOASOBI - Comet).opus
+218:Japanese/Youtube Playlist/YOASOBI「怪物」Official Music Video　(YOASOBI - Monster).opus
+219:Japanese/Youtube Playlist/Yoino Myojo.opus
+220:Japanese/Youtube Playlist/YOKU - Eve MV.opus
+221:Japanese/Youtube Playlist/Yoru no yume.opus
+222:Japanese/Youtube Playlist/Yoru wo koero.opus
+223:Japanese/Youtube Playlist/アウトサイダー - Eve MV.opus
+224:Japanese/Youtube Playlist/あの娘シークレット - Eve MV.opus
+225:Japanese/Youtube Playlist/アンビバレント - Eve MV.opus
+226:Japanese/Youtube Playlist/いかないで - Arrange Ver.- 歌ってみた【Eve】.opus
+227:Japanese/Youtube Playlist/いのちの食べ方 - Eve MV.opus
+228:Japanese/Youtube Playlist/おしゃかしゃま（RADWIMPS）全部自分の声で歌ってみた／まふまふ（cover）.opus
+229:Japanese/Youtube Playlist/お気に召すまま - Eve MV.opus
+230:Japanese/Youtube Playlist/ぎゅっと。_ もさを。【Music Video】.opus
+231:Japanese/Youtube Playlist/シャルル／バルーン (self cover).opus
+232:Japanese/Youtube Playlist/ずっと真夜中でいいのに。『あいつら全員同窓会』MV (ZUTOMAYO - Inside Joke).opus
+233:Japanese/Youtube Playlist/ストラトステラ _ ナユタン星人(cover) - Eve.opus
+234:Japanese/Youtube Playlist/スパークル [original ver.] -Your name. Music Video edition- 予告編 from new album「人間開花」初回盤DVD.opus
+235:Japanese/Youtube Playlist/トーキョーゲットー - Eve MV.opus
+236:Japanese/Youtube Playlist/ドーナツホール 歌ってみた【Eve】.opus
+237:Japanese/Youtube Playlist/ないものねだり _ KANA-BOON (cover) - Eve.opus
+238:Japanese/Youtube Playlist/ハイタ _ ルワン(cover) - Eve×Sou.opus
+239:Japanese/Youtube Playlist/バウムクーヘンエンド - Eve MV.opus
+240:Japanese/Youtube Playlist/パメラ／バルーン (self cover).opus
+241:Japanese/Youtube Playlist/フェイク.opus
+242:Japanese/Youtube Playlist/メーベル _ バルーン(cover) - Eve.opus
+243:Japanese/Youtube Playlist/ヨルシカ - だから僕は音楽を辞めた (Music Video).opus
+244:Japanese/Youtube Playlist/ヨルシカ - ただ君に晴れ (MUSIC VIDEO).opus
+245:Japanese/Youtube Playlist/ヨルシカ - ヒッチコック (MUSIC VIDEO).opus
+246:Japanese/Youtube Playlist/ヨルシカ - 藍二乗 (Music Video).opus
+247:Japanese/Youtube Playlist/ヨルシカ - 言って。(Music Video).opus
+248:Japanese/Youtube Playlist/ラストダンス - Eve MV.opus
+249:Japanese/Youtube Playlist/レーゾンデートル - Eve MV.opus
+250:Japanese/Youtube Playlist/ロクデナシ - ただ声一つ _ Rokudenashi - One Voice -［Official Music Video］.opus
+251:Japanese/Youtube Playlist/不可幸力 _ Vaundy ：MUSIC VIDEO.opus
+252:Japanese/Youtube Playlist/会いたい _ もさを。【Music Video】.opus
+253:Japanese/Youtube Playlist/僕らまだアンダーグラウンド - Eve MV.opus
+254:Japanese/Youtube Playlist/冬のプレゼント _ もさを。【Music Video】.opus
+255:Japanese/Youtube Playlist/君に世界 - Eve MV.opus
+256:Japanese/Youtube Playlist/境界的彼方 Kyoukai no Kanata ED「Daisy」.opus
+257:Japanese/Youtube Playlist/夜に駆ける.opus
+258:Japanese/Youtube Playlist/夜は仄か - Eve MV.opus
+259:Japanese/Youtube Playlist/夜撫でるメノウ _ Ayase (self cover).opus
+260:Japanese/Youtube Playlist/好きだから。（feat.れん）_ 『ユイカ』【MV】.mp3
+261:Japanese/Youtube Playlist/帝国少女.opus
+262:Japanese/Youtube Playlist/平行線 - Eve × suis from ヨルシカ MV.opus
+263:Japanese/Youtube Playlist/彗星ハネムーン _ ナユタン星人(cover) - Eve.opus
+264:Japanese/Youtube Playlist/心予報 - Eve MV.opus
+265:Japanese/Youtube Playlist/心海 - Eve MV.opus
+266:Japanese/Youtube Playlist/怪獣の花唄 _ Vaundy ： MUSIC VIDEO.opus
+267:Japanese/Youtube Playlist/惑星ループ - Eve  feat.ナユタン星人.opus
+268:Japanese/Youtube Playlist/有機酸_ewe「Dancer in the Dark」feat.flower MV.opus
+269:Japanese/Youtube Playlist/有機酸_ewe「quiet room」(self cover) MV.opus
+270:Japanese/Youtube Playlist/有機酸_ewe「spray」(self cover) MV.opus
+271:Japanese/Youtube Playlist/有機酸_ewe「カトラリー」(self cover) MV.opus
+272:Japanese/Youtube Playlist/有機酸_ewe「カフネ」(remix self cover).opus
+273:Japanese/Youtube Playlist/東京フラッシュ _ Vaundy ：MUSIC VIDEO.opus
+274:Japanese/Youtube Playlist/神山羊 - CUT【Music Video】_ Yoh Kamiyama - CUT.opus
+275:Japanese/Youtube Playlist/神山羊 - Laundry【Music Video】_ Yoh Kamiyama - Laundry.opus
+276:Japanese/Youtube Playlist/神山羊 - YELLOW【Music Video】_ Yoh Kamiyama - YELLOW.opus
+277:Japanese/Youtube Playlist/神山羊 - アイスクリーム【Music Video】_ Yoh Kamiyama - ICECREAM.opus
+278:Japanese/Youtube Playlist/神山羊 - おやすみ、かみさま【Music Video】_ Yoh Kamiyama - Oyasumi, Kamisama.opus
+279:Japanese/Youtube Playlist/神山羊 - シュガーハイウェイ【Music Video】_ Yoh Kamiyama - Sugar Highway.opus
+280:Japanese/Youtube Playlist/神山羊 - 生絲【Music Video】_ Yoh Kamiyama - Kiito.opus
+281:Japanese/Youtube Playlist/神山羊 - 色香水【Music Video】_ Yoh Kamiyama - Irokousui.opus
+282:Japanese/Youtube Playlist/神山羊 - 青い棘【Music Video】_ Yoh Kamiyama - Aoi Toge.opus
+283:Japanese/Youtube Playlist/米津玄師  - orion , Kenshi Yonezu.opus
+284:Japanese/Youtube Playlist/米津玄師 - LOSER , Kenshi Yonezu.opus
+285:Japanese/Youtube Playlist/米津玄師 - ピースサイン , Kenshi Yonezu - Peace Sign.opus
+286:Japanese/Youtube Playlist/米津玄師 - 春雷   Kenshi Yonezu - Shunrai.opus
+287:Japanese/Youtube Playlist/約束 - Eve MV.opus
+288:Japanese/Youtube Playlist/美波「ライラック」MV.opus
+289:Japanese/Youtube Playlist/群青讃歌 - Eve MV.opus
+290:Japanese/Youtube Playlist/蒼のワルツ - Eve MV.opus
+291:Japanese/Youtube Playlist/藍才 - Eve MV.opus
+292:Japanese/Youtube Playlist/裸の勇者 _ Vaundy：MUSIC VIDEO.opus
+293:Japanese/Youtube Playlist/踊り子 _ Vaundy：MUSIC VIDEO.opus
+294:Japanese/Youtube Playlist/遊生夢死 - Eve MV.opus
+295:Japanese/Youtube Playlist/闇夜 - Eve MV 'Dark night'.opus
+296:Japanese/Youtube Playlist/雨とペトラ _ バルーン(cover) - Eve.opus
+297:Japanese/Youtube Playlist/須田景凪「Dolly」MV.opus
+298:Japanese/Youtube Playlist/須田景凪「レド」MV.opus
+playlist_end
