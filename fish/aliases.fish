@@ -42,17 +42,16 @@ alias gress 'git restore --staged'
 alias gidff 'git diff'
 
 # Applications
-alias emc 'emacsclient -c -a 'emacs''
 alias v 'nvim'
 alias vim 'nvim'
+alias emc 'emacsclient -c -a 'emacs''
 alias code 'codium'
-alias torrent 'transmission-cli'
-alias news 'newsboat -q'
 alias mega 'megasync-cli'
 alias pdf 'zathura --fork'
 alias vpn 'sudo protonvpn'
 alias ytdl "yt-dlp -i -o \'%(title)s.%(ext)s\'"
-alias ymdl "yt-dlp -i -x --audio-format mp3 -o \'%(title)s.%(ext)s\'"
+alias ymdl "yt-dlp -i -x --audio-format opus -o \'%(title)s.%(ext)s\'"
 alias anime 'ani-cli'
 alias dosbox "dosbox -conf \'$XDG_CONFIG_HOME\'/dosbox/dosbox.conf"
 alias edit 'gnome-text-editor'
+alias open 'nautilus'
