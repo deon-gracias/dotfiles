@@ -30,12 +30,16 @@ alias sch 'cat ~/College/schedule.txt'
 alias todo 'cat ~/Personal/todo/todo'
 
 # Git
+alias g 'git'
 alias gst 'git status'
 alias gadd 'git add'
 alias gpush 'git push'
 alias gcom 'git commit'
 alias gcomm 'git commit -m'
 alias gcoma 'git commit -am'
+alias gres 'git restore'
+alias gress 'git restore --staged'
+alias gidff 'git diff'
 
 # Applications
 alias emc 'emacsclient -c -a 'emacs''
