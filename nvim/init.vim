@@ -48,7 +48,7 @@ map <leader>b :vsp<space>~/Scripts/bib.bib<CR>
 map <leader>r :vsp<space>~/Scripts/bib<CR>
 
 " Compile document, be it groff/LaTeX/md/c/cpp/py.
-map <leader>c :w! \| !~/Scripts/compiler.sh <c-r>%<CR><CR>
+map <leader>c :w! \| !~/Scripts/compiler.sh "<c-r>%"<CR>
 
 " Open correponding .pdf/.html or preview
 map <leader>p :!~/Scripts/opout.sh <c-r>%<CR><CR>
