@@ -12,8 +12,8 @@ Plug 'folke/tokyonight.nvim', { 'branch': 'main' } " Theme : Tokyo Night
 call plug#end()
 
 " Theme
-let g:tokyonight_transparent = 0    " Opaque Background
-colorscheme tokyonight
+" let g:tokyonight_transparent = 0    " Opaque Background
+" colorscheme tokyonight
 
 " Basics
 set nocompatible
