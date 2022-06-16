@@ -5,6 +5,7 @@ SETUVAR --export CARGO_HOME:/home/deongracias/\x2elocal/cargo
 SETUVAR --export CHROME_EXECUTABLE:/usr/bin/chromium
 SETUVAR --export EDITOR:nvim
 SETUVAR --export --path GOPATH:/home/deongracias/Coding/go
+SETUVAR --export --path GO_PATH:/home/deongracias/Coding/go
 SETUVAR --export RUSTUP_HOME:/home/deongracias/\x2elocal/rustup
 SETUVAR --export SUDO_EDITOR:/usr/bin/nvim
 SETUVAR __fish_initialized:3400
