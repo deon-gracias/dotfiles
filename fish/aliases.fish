@@ -22,7 +22,7 @@ alias pu 'sudo pacman -Syu'
 # DNF (Fedora)
 alias di 'sudo dnf install'
 alias dr 'sudo dnf remove'
-alias du 'sudo dnf update'
+alias dup 'sudo dnf update'
 
 # My Scripts
 alias synchdd 'sudo ~/Scripts/sync_files.sh'
