@@ -15,8 +15,8 @@ alias s 'systemctl'
 alias j 'journalctl'
 
 # Pacman
-alias pi 'sudo pacman -Sy'
-alias pr 'sudo pacman -R'
+alias pi 'sudo pacman --noconfirm -Sy'
+alias pr 'sudo pacman --noconfirm -R'
 alias pu 'sudo pacman -Syu'
 
 # DNF (Fedora)
