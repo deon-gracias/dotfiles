@@ -40,7 +40,7 @@ alias gcomm='git commit -m'
 alias gcoma='git commit -am'
 alias gres='git restore'
 alias gress='git restore --staged'
-alias gdiff 'git diff'
+alias gdiff='git diff'
 
 # Applications
 alias v='nvim'
