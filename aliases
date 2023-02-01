@@ -14,7 +14,7 @@ alias cl='clear'
 alias s='systemctl'
 alias j='journalctl'
 
-# Pacman
+# Pacman (Arch)
 alias pi='sudo pacman --noconfirm -Sy'
 alias pr='sudo pacman --noconfirm -R'
 alias pu='sudo pacman -Syu'
@@ -23,6 +23,11 @@ alias pu='sudo pacman -Syu'
 alias di='sudo dnf install'
 alias dr='sudo dnf remove'
 alias dup='sudo dnf update'
+
+# APT (Deb)
+alias ai='sudo apt install'
+alias ar='sudo apt remove'
+alias aup='sudo apt update && sudo apt upgrade'
 
 # My Scripts
 alias synchdd='sudo ~/Scripts/sync_files.sh'
@@ -56,3 +61,4 @@ alias anime='ani-cli'
 alias dosbox="dosbox -conf \'$XDG_CONFIG_HOME\'/dosbox/dosbox.conf"
 alias edit='gnome-text-editor'
 alias open='nautilus'
+alias pocketbase='~/.local/bin/pocketbase'
