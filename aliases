@@ -21,6 +21,7 @@ alias pu='sudo pacman -Syu'
 
 # DNF (Fedora)
 alias di='sudo dnf install'
+alias ds='sudo dnf search'
 alias dr='sudo dnf remove'
 alias dup='sudo dnf update'
 
@@ -48,10 +49,11 @@ alias gress='git restore --staged'
 alias gdiff='git diff'
 
 # Applications
+alias pn='pnpm'
 alias v='nvim'
 alias vim='nvim'
 alias emc='emacsclient -c -a 'emacs''
-alias code='codium'
+# alias code='codium'
 alias mega='megasync-cli'
 alias pdf='zathura --fork'
 alias vpn='sudo protonvpn'

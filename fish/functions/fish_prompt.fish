@@ -1,1 +1,1 @@
-/home/deon/.local/share/omf/themes/wolf-theme/fish_prompt.fish
+unsupported reparse tag 0xa000000c
